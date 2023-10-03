@@ -6,3 +6,21 @@ div {
 p {
     color: red;
 }
+
+ul {
+    color: white;
+    background-color: black;
+}
+
+ol {
+    color: white;
+    background-color: black;
+}
+
+.steps {
+    color: red;
+}
+
+.yum {
+    color:gold;
+}
